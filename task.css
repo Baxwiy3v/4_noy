@@ -1,0 +1,52 @@
+
+
+.centered-texttt {
+    text-align: center;
+}
+
+
+hr {
+    clear: both;
+    border: 0;
+    height: 3px;
+    background-image: linear-gradient(to right,rgba(25, 7, 7, 0),rgba(11, 10, 10, 0.75),rgba(5, 0, 0, 0));
+    }
+
+
+
+
+.quotetxt {
+    font-size: 12px;
+}
+
+
+
+.langtxt {
+    font-size: 15px;
+}
+
+.imgdivs {
+    width: 80%;
+}
+
+table {
+    width: 100%;
+}
+.head {
+    line-height: 1px;
+}
+
+.ratd {
+    width: 30px;
+}
+
+#here {
+    color: red;
+}
+a {
+    color:black;
+}
+a:hover {
+    color: red;
+}
+
